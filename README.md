@@ -9,7 +9,7 @@
 ## 🌐 Live Demo  
 🔗 [Visit Quantum Code Craft Website](https://craftcoderealm-maker.github.io/Quantum-Craft-Code-Info/#)  
 
-![Preview Screenshot](web.png)
+![Preview Screenshot](Web.png)
 
 ---
 
